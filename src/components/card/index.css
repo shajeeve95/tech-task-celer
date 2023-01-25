@@ -1,0 +1,17 @@
+.card-container {
+  height: 100px;
+  width: 60px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 4px;
+  padding: 10px;
+  margin: 12px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  background-color: #ececeb;
+}
+
+.card-container_bottom {
+  align-self: flex-end;
+}
